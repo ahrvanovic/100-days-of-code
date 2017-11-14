@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [November 14, Tuesday, 2017].
 
 ## Log
 
-// Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+[//]: # Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
 
 ### R1D1 
