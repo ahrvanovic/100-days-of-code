@@ -46,4 +46,4 @@ I've recently started coding, and it's a great feeling when I finally solve an a
 
 ### Day 3: November 16, Thursday
 
-**Today's Progress**: JQuery continue on freeCodeCamp
+**Today's Progress**: continue on freeCodeCamp - DONT FORGET - Read-Search-Ask metodology!
