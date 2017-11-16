@@ -43,3 +43,7 @@ I've recently started coding, and it's a great feeling when I finally solve an a
 ### Day 2: November 15, Wednesday
 
 **Today's Progress**: JQuery on freeCodeCamp
+
+### Day 3: November 16, Thursday
+
+**Today's Progress**: JQuery continue on freeCodeCamp
