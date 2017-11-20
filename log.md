@@ -47,3 +47,7 @@ I've recently started coding, and it's a great feeling when I finally solve an a
 ### Day 3: November 16, Thursday
 
 **Today's Progress**: continue on freeCodeCamp - DONT FORGET - Read-Search-Ask metodology!
+
+### Day 4: November 20, Monday
+
+**Today's Progress**: freeCodeCamp - JS start
