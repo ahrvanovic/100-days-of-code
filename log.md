@@ -51,3 +51,8 @@ I've recently started coding, and it's a great feeling when I finally solve an a
 ### Day 4: November 20, Monday
 
 **Today's Progress**: freeCodeCamp - JS start
+
+### Day 5: December 8, Friday
+
+**Today's Progress**: freeCodeCamp - functions, scope of functions etc...
+
