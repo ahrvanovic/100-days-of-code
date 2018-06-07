@@ -36,23 +36,23 @@ I've recently started coding, and it's a great feeling when I finally solve an a
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: November 14, Tuesday
+### Day 1: June 7, Thursday
 
-**Today's Progress**: I've join 100 days of code and restarted freeCodeCamp currilucum.
-
-### Day 2: November 15, Wednesday
-
-**Today's Progress**: JQuery on freeCodeCamp
-
-### Day 3: November 16, Thursday
-
-**Today's Progress**: continue on freeCodeCamp - DONT FORGET - Read-Search-Ask metodology!
-
-### Day 4: November 20, Monday
-
-**Today's Progress**: freeCodeCamp - JS start
-
-### Day 5: December 8, Friday
-
+**Today's Progress**: I've join 100 days of code and restarted freeCodeCamp currilucum for a second time.
+<!--
+### Day 2: June 8, Friday -->
+<!--
+**Today's Progress**: -->
+<!--
+### Day 3: June 9, Saturday -->
+<!--
+**Today's Progress**: continue on freeCodeCamp - DONT FORGET - Read-Search-Ask metodology! -->
+<!--
+### Day 4: June 10, Sunday -->
+<!--
+**Today's Progress**: freeCodeCamp - JS start -->
+<!--
+### Day 5: June 11, Monday -->
+<!--
 **Today's Progress**: freeCodeCamp - functions, scope of functions etc...
-
+-->
